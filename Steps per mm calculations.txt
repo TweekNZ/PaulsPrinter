@@ -1,0 +1,23 @@
+=======================
+ Steps/mm 
+=======================
+Z Axis	= 4000.00
+	Motor Step Angle:		1.8
+	Driver Microstepping:	1/16
+	Pitch Preset:			M5 = 0.8 mm/rev
+
+X Axis = 80
+	Motor Step Angle:		1.8
+	Driver Micro Stepping:	1/16
+	Belt Pitch:				2
+	Belt Preset:			2mm Pitch
+	Pulley Tooth Count:		20
+
+Y Axis = 80
+	Motor Step Angle:		1.8
+	Driver Micro Stepping:	1/16
+	Belt Pitch:				2
+	Belt Preset:			2mm Pitch
+	Pulley Tooth Count:		20
+
+Extruder = 100
